@@ -1,0 +1,45 @@
+{
+  "unique_albums": {
+    "unique_album_names": 5850,
+    "unique_album_artist_pairs": 6261
+  },
+  "listening_consistency": {
+    "total_days_in_date_range": 2750,
+    "days_with_at_least_one_play": 2705,
+    "share_of_days_with_a_play": 0.9836,
+    "longest_consecutive_day_streak": 589,
+    "longest_streak_start": "2021-05-07",
+    "longest_streak_end": "2022-12-16",
+    "longest_gap_days": 4,
+    "longest_gap_start": "2019-11-21",
+    "longest_gap_end": "2019-11-26"
+  },
+  "concentration_curve": {
+    "top_5_share_of_hours": 0.2077,
+    "top_10_share_of_hours": 0.2841,
+    "top_25_share_of_hours": 0.4133,
+    "top_50_share_of_hours": 0.5347,
+    "top_100_share_of_hours": 0.6784,
+    "top_250_share_of_hours": 0.8617,
+    "total_unique_artists": 2577
+  },
+  "session_stats": {
+    "session_gap_threshold_minutes": 30,
+    "total_sessions": 14572,
+    "median_tracks_per_session": 6.0,
+    "mean_tracks_per_session": 9.62,
+    "median_session_minutes": 24.4,
+    "mean_session_minutes": 41.8,
+    "longest_session": {
+      "start": "2022-04-25 13:22:06+05:30",
+      "end": "2022-04-25 22:16:19+05:30",
+      "span_minutes": 538.4,
+      "n_tracks": 112,
+      "hours": 6.54
+    },
+    "most_active_day": {
+      "date": "2022-05-12",
+      "hours": 13.92
+    }
+  }
+}

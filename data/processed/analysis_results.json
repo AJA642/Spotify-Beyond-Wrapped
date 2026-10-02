@@ -1,0 +1,890 @@
+{
+  "total_listening_time": {
+    "lifetime_hours": 7398.8,
+    "by_year_hours": {
+      "2019": 479.8,
+      "2020": 695.6,
+      "2021": 557.5,
+      "2022": 1888.8,
+      "2023": 1248.1,
+      "2024": 918.9,
+      "2025": 878.9,
+      "2026": 731.1
+    }
+  },
+  "top_lists": {
+    "top_artists_lifetime": [
+      {
+        "artist_name": "Avicii",
+        "hours": 582.3,
+        "plays": 9858
+      },
+      {
+        "artist_name": "Kanye West",
+        "hours": 370.6,
+        "plays": 6600
+      },
+      {
+        "artist_name": "The Chainsmokers",
+        "hours": 226.0,
+        "plays": 4247
+      },
+      {
+        "artist_name": "Kygo",
+        "hours": 184.9,
+        "plays": 3415
+      },
+      {
+        "artist_name": "Jon Bellion",
+        "hours": 173.3,
+        "plays": 3463
+      },
+      {
+        "artist_name": "Coldplay",
+        "hours": 144.6,
+        "plays": 2194
+      },
+      {
+        "artist_name": "Maroon 5",
+        "hours": 119.3,
+        "plays": 2246
+      },
+      {
+        "artist_name": "Calvin Harris",
+        "hours": 116.1,
+        "plays": 2212
+      },
+      {
+        "artist_name": "One Direction",
+        "hours": 100.6,
+        "plays": 2057
+      },
+      {
+        "artist_name": "OneRepublic",
+        "hours": 84.4,
+        "plays": 1647
+      },
+      {
+        "artist_name": "The Script",
+        "hours": 83.3,
+        "plays": 1528
+      },
+      {
+        "artist_name": "Flo Rida",
+        "hours": 78.8,
+        "plays": 1481
+      },
+      {
+        "artist_name": "Axwell /\\ Ingrosso",
+        "hours": 78.3,
+        "plays": 1430
+      },
+      {
+        "artist_name": "Katy Perry",
+        "hours": 75.4,
+        "plays": 1432
+      },
+      {
+        "artist_name": "Imagine Dragons",
+        "hours": 70.6,
+        "plays": 1372
+      }
+    ],
+    "top_tracks_lifetime": [
+      {
+        "track_label": "Levels - Original Version \u2014 Avicii",
+        "hours": 175.7,
+        "plays": 2099
+      },
+      {
+        "track_label": "Stronger \u2014 Kanye West",
+        "hours": 81.5,
+        "plays": 1123
+      },
+      {
+        "track_label": "Honest \u2014 The Chainsmokers",
+        "hours": 46.7,
+        "plays": 847
+      },
+      {
+        "track_label": "A Sky Full of Stars \u2014 Coldplay",
+        "hours": 45.1,
+        "plays": 659
+      },
+      {
+        "track_label": "Levels - Radio Edit \u2014 Avicii",
+        "hours": 44.5,
+        "plays": 875
+      },
+      {
+        "track_label": "Wake Me Up \u2014 Avicii",
+        "hours": 39.8,
+        "plays": 665
+      },
+      {
+        "track_label": "Midnight City \u2014 M83",
+        "hours": 38.6,
+        "plays": 629
+      },
+      {
+        "track_label": "Am I Wrong \u2014 Nico & Vinz",
+        "hours": 37.9,
+        "plays": 601
+      },
+      {
+        "track_label": "Roses \u2014 The Chainsmokers",
+        "hours": 36.4,
+        "plays": 616
+      },
+      {
+        "track_label": "The Nights \u2014 Avicii",
+        "hours": 33.1,
+        "plays": 727
+      },
+      {
+        "track_label": "All Time Low \u2014 Jon Bellion",
+        "hours": 32.5,
+        "plays": 573
+      },
+      {
+        "track_label": "Payphone \u2014 Maroon 5",
+        "hours": 32.3,
+        "plays": 552
+      },
+      {
+        "track_label": "Pompeii \u2014 Bastille",
+        "hours": 31.4,
+        "plays": 589
+      },
+      {
+        "track_label": "Fireflies \u2014 Owl City",
+        "hours": 29.2,
+        "plays": 497
+      },
+      {
+        "track_label": "Superheroes \u2014 The Script",
+        "hours": 29.1,
+        "plays": 493
+      }
+    ],
+    "top_albums_lifetime": [
+      {
+        "album_label": "Levels \u2014 Avicii",
+        "hours": 239.4,
+        "plays": 3253
+      },
+      {
+        "album_label": "Donda \u2014 Kanye West",
+        "hours": 105.1,
+        "plays": 1802
+      },
+      {
+        "album_label": "Graduation \u2014 Kanye West",
+        "hours": 101.6,
+        "plays": 1535
+      },
+      {
+        "album_label": "True \u2014 Avicii",
+        "hours": 78.4,
+        "plays": 1307
+      },
+      {
+        "album_label": "More Than You Know \u2014 Axwell /\\ Ingrosso",
+        "hours": 75.9,
+        "plays": 1388
+      },
+      {
+        "album_label": "Memories...Do Not Open \u2014 The Chainsmokers",
+        "hours": 75.3,
+        "plays": 1382
+      },
+      {
+        "album_label": "TIM \u2014 Avicii",
+        "hours": 74.7,
+        "plays": 1524
+      },
+      {
+        "album_label": "Stories \u2014 Avicii",
+        "hours": 65.3,
+        "plays": 1150
+      },
+      {
+        "album_label": "My Beautiful Dark Twisted Fantasy \u2014 Kanye West",
+        "hours": 63.3,
+        "plays": 1067
+      },
+      {
+        "album_label": "Overexposed Track By Track \u2014 Maroon 5",
+        "hours": 54.3,
+        "plays": 999
+      },
+      {
+        "album_label": "Ghost Stories \u2014 Coldplay",
+        "hours": 50.1,
+        "plays": 728
+      },
+      {
+        "album_label": "Motion \u2014 Calvin Harris",
+        "hours": 45.1,
+        "plays": 848
+      },
+      {
+        "album_label": "Hurry up, We're Dreaming \u2014 M83",
+        "hours": 44.1,
+        "plays": 715
+      },
+      {
+        "album_label": "The Days / Nights \u2014 Avicii",
+        "hours": 44.1,
+        "plays": 896
+      },
+      {
+        "album_label": "Cloud Nine \u2014 Kygo",
+        "hours": 40.7,
+        "plays": 717
+      }
+    ],
+    "top_artists_by_year": {
+      "2019": [
+        {
+          "artist_name": "Avicii",
+          "hours": 96.3,
+          "plays": 1910
+        },
+        {
+          "artist_name": "Jon Bellion",
+          "hours": 46.6,
+          "plays": 977
+        },
+        {
+          "artist_name": "The Chainsmokers",
+          "hours": 32.4,
+          "plays": 632
+        },
+        {
+          "artist_name": "Imagine Dragons",
+          "hours": 16.0,
+          "plays": 290
+        },
+        {
+          "artist_name": "Martin Garrix",
+          "hours": 11.8,
+          "plays": 236
+        }
+      ],
+      "2020": [
+        {
+          "artist_name": "Avicii",
+          "hours": 118.0,
+          "plays": 2063
+        },
+        {
+          "artist_name": "Kygo",
+          "hours": 35.9,
+          "plays": 689
+        },
+        {
+          "artist_name": "The Chainsmokers",
+          "hours": 29.1,
+          "plays": 528
+        },
+        {
+          "artist_name": "Jon Bellion",
+          "hours": 22.2,
+          "plays": 433
+        },
+        {
+          "artist_name": "Calvin Harris",
+          "hours": 21.2,
+          "plays": 394
+        }
+      ],
+      "2021": [
+        {
+          "artist_name": "Avicii",
+          "hours": 79.8,
+          "plays": 1412
+        },
+        {
+          "artist_name": "The Chainsmokers",
+          "hours": 21.5,
+          "plays": 424
+        },
+        {
+          "artist_name": "Kanye West",
+          "hours": 21.3,
+          "plays": 375
+        },
+        {
+          "artist_name": "Kygo",
+          "hours": 20.1,
+          "plays": 395
+        },
+        {
+          "artist_name": "Jon Bellion",
+          "hours": 13.0,
+          "plays": 275
+        }
+      ],
+      "2022": [
+        {
+          "artist_name": "Kanye West",
+          "hours": 156.0,
+          "plays": 2793
+        },
+        {
+          "artist_name": "Avicii",
+          "hours": 100.7,
+          "plays": 1656
+        },
+        {
+          "artist_name": "The Chainsmokers",
+          "hours": 63.5,
+          "plays": 1214
+        },
+        {
+          "artist_name": "Kygo",
+          "hours": 49.6,
+          "plays": 903
+        },
+        {
+          "artist_name": "Jon Bellion",
+          "hours": 37.9,
+          "plays": 767
+        }
+      ],
+      "2023": [
+        {
+          "artist_name": "Kanye West",
+          "hours": 82.2,
+          "plays": 1450
+        },
+        {
+          "artist_name": "Avicii",
+          "hours": 77.8,
+          "plays": 1167
+        },
+        {
+          "artist_name": "Maroon 5",
+          "hours": 33.5,
+          "plays": 628
+        },
+        {
+          "artist_name": "Coldplay",
+          "hours": 28.1,
+          "plays": 411
+        },
+        {
+          "artist_name": "Kygo",
+          "hours": 27.8,
+          "plays": 490
+        }
+      ],
+      "2024": [
+        {
+          "artist_name": "Avicii",
+          "hours": 59.2,
+          "plays": 804
+        },
+        {
+          "artist_name": "Kanye West",
+          "hours": 43.2,
+          "plays": 806
+        },
+        {
+          "artist_name": "Chris Tomlin",
+          "hours": 36.6,
+          "plays": 494
+        },
+        {
+          "artist_name": "Coldplay",
+          "hours": 28.9,
+          "plays": 436
+        },
+        {
+          "artist_name": "Kygo",
+          "hours": 18.5,
+          "plays": 336
+        }
+      ],
+      "2025": [
+        {
+          "artist_name": "Kanye West",
+          "hours": 30.7,
+          "plays": 542
+        },
+        {
+          "artist_name": "Avicii",
+          "hours": 29.8,
+          "plays": 504
+        },
+        {
+          "artist_name": "The Chainsmokers",
+          "hours": 20.8,
+          "plays": 376
+        },
+        {
+          "artist_name": "Jon Bellion",
+          "hours": 19.8,
+          "plays": 376
+        },
+        {
+          "artist_name": "CityAlight",
+          "hours": 16.7,
+          "plays": 232
+        }
+      ],
+      "2026": [
+        {
+          "artist_name": "Kanye West",
+          "hours": 32.3,
+          "plays": 560
+        },
+        {
+          "artist_name": "Avicii",
+          "hours": 20.8,
+          "plays": 342
+        },
+        {
+          "artist_name": "Swedish House Mafia",
+          "hours": 16.9,
+          "plays": 241
+        },
+        {
+          "artist_name": "The Chainsmokers",
+          "hours": 14.6,
+          "plays": 276
+        },
+        {
+          "artist_name": "Jon Bellion",
+          "hours": 11.9,
+          "plays": 225
+        }
+      ]
+    }
+  },
+  "monthly_trend_hours": {
+    "2019-02": 5.3,
+    "2019-03": 47.9,
+    "2019-04": 30.3,
+    "2019-05": 44.4,
+    "2019-06": 71.7,
+    "2019-07": 76.6,
+    "2019-08": 68.7,
+    "2019-09": 65.5,
+    "2019-10": 19.0,
+    "2019-11": 7.2,
+    "2019-12": 43.1,
+    "2020-01": 45.8,
+    "2020-02": 72.2,
+    "2020-03": 69.2,
+    "2020-04": 53.4,
+    "2020-05": 43.1,
+    "2020-06": 108.2,
+    "2020-07": 108.9,
+    "2020-08": 42.4,
+    "2020-09": 60.5,
+    "2020-10": 32.7,
+    "2020-11": 25.3,
+    "2020-12": 34.0,
+    "2021-01": 18.8,
+    "2021-02": 11.6,
+    "2021-03": 35.2,
+    "2021-04": 37.6,
+    "2021-05": 50.3,
+    "2021-06": 39.8,
+    "2021-07": 73.8,
+    "2021-08": 58.9,
+    "2021-09": 81.3,
+    "2021-10": 37.1,
+    "2021-11": 46.7,
+    "2021-12": 66.6,
+    "2022-01": 125.5,
+    "2022-02": 146.4,
+    "2022-03": 213.4,
+    "2022-04": 190.0,
+    "2022-05": 181.4,
+    "2022-06": 143.8,
+    "2022-07": 146.2,
+    "2022-08": 161.3,
+    "2022-09": 157.2,
+    "2022-10": 166.8,
+    "2022-11": 144.4,
+    "2022-12": 112.4,
+    "2023-01": 142.5,
+    "2023-02": 145.2,
+    "2023-03": 143.1,
+    "2023-04": 99.1,
+    "2023-05": 74.2,
+    "2023-06": 71.4,
+    "2023-07": 70.7,
+    "2023-08": 64.9,
+    "2023-09": 100.9,
+    "2023-10": 101.6,
+    "2023-11": 130.6,
+    "2023-12": 104.0,
+    "2024-01": 112.0,
+    "2024-02": 74.3,
+    "2024-03": 106.4,
+    "2024-04": 72.6,
+    "2024-05": 95.5,
+    "2024-06": 77.4,
+    "2024-07": 103.6,
+    "2024-08": 58.9,
+    "2024-09": 45.0,
+    "2024-10": 41.9,
+    "2024-11": 56.3,
+    "2024-12": 74.8,
+    "2025-01": 51.0,
+    "2025-02": 47.9,
+    "2025-03": 69.0,
+    "2025-04": 78.9,
+    "2025-05": 78.2,
+    "2025-06": 97.0,
+    "2025-07": 73.4,
+    "2025-08": 73.2,
+    "2025-09": 59.5,
+    "2025-10": 79.4,
+    "2025-11": 85.4,
+    "2025-12": 86.0,
+    "2026-01": 75.6,
+    "2026-02": 83.8,
+    "2026-03": 93.1,
+    "2026-04": 72.3,
+    "2026-05": 97.7,
+    "2026-06": 98.4,
+    "2026-07": 95.2,
+    "2026-08": 88.1,
+    "2026-09": 26.9
+  },
+  "time_patterns": {
+    "by_hour": {
+      "0": 263.1,
+      "1": 186.7,
+      "2": 125.6,
+      "3": 70.5,
+      "4": 48.6,
+      "5": 77.5,
+      "6": 91.9,
+      "7": 229.7,
+      "8": 387.1,
+      "9": 306.1,
+      "10": 305.0,
+      "11": 349.4,
+      "12": 351.7,
+      "13": 388.0,
+      "14": 419.9,
+      "15": 476.0,
+      "16": 441.8,
+      "17": 405.0,
+      "18": 423.0,
+      "19": 460.7,
+      "20": 332.9,
+      "21": 374.1,
+      "22": 475.8,
+      "23": 408.7
+    },
+    "by_day_of_week": {
+      "Friday": 1056.0,
+      "Monday": 1070.0,
+      "Saturday": 974.3,
+      "Sunday": 998.8,
+      "Thursday": 1055.0,
+      "Tuesday": 1111.2,
+      "Wednesday": 1133.5
+    },
+    "heatmap": {
+      "0": {
+        "Monday": 44.51980527777778,
+        "Tuesday": 32.89092111111111,
+        "Wednesday": 38.15970444444444,
+        "Thursday": 50.97587166666667,
+        "Friday": 40.68042694444444,
+        "Saturday": 27.876345,
+        "Sunday": 28.03385861111111
+      },
+      "1": {
+        "Monday": 23.455869444444446,
+        "Tuesday": 24.053166666666666,
+        "Wednesday": 25.449521944444445,
+        "Thursday": 33.6220625,
+        "Friday": 29.80803138888889,
+        "Saturday": 25.003323333333334,
+        "Sunday": 25.33381361111111
+      },
+      "2": {
+        "Monday": 13.8752175,
+        "Tuesday": 15.626956111111111,
+        "Wednesday": 19.34411138888889,
+        "Thursday": 19.742858333333334,
+        "Friday": 19.356313333333333,
+        "Saturday": 19.976673055555555,
+        "Sunday": 17.70181611111111
+      },
+      "3": {
+        "Monday": 8.199801666666668,
+        "Tuesday": 8.544865,
+        "Wednesday": 11.201677222222223,
+        "Thursday": 9.107269722222222,
+        "Friday": 11.900807777777779,
+        "Saturday": 9.372842777777779,
+        "Sunday": 12.146408611111111
+      },
+      "4": {
+        "Monday": 7.149025555555555,
+        "Tuesday": 8.093134444444445,
+        "Wednesday": 7.372029444444444,
+        "Thursday": 4.481429444444444,
+        "Friday": 6.808416944444445,
+        "Saturday": 7.9278775,
+        "Sunday": 6.791351388888889
+      },
+      "5": {
+        "Monday": 7.778888611111111,
+        "Tuesday": 14.330759166666667,
+        "Wednesday": 11.889101944444445,
+        "Thursday": 5.623268611111111,
+        "Friday": 7.653107777777778,
+        "Saturday": 23.92204388888889,
+        "Sunday": 6.303758888888889
+      },
+      "6": {
+        "Monday": 10.101302222222222,
+        "Tuesday": 17.135400277777777,
+        "Wednesday": 17.064769166666668,
+        "Thursday": 8.770708333333333,
+        "Friday": 10.950094444444444,
+        "Saturday": 18.35396638888889,
+        "Sunday": 9.538483055555556
+      },
+      "7": {
+        "Monday": 28.147287777777777,
+        "Tuesday": 39.40004527777778,
+        "Wednesday": 38.449981944444446,
+        "Thursday": 32.405948055555555,
+        "Friday": 29.03826972222222,
+        "Saturday": 32.985934444444446,
+        "Sunday": 29.259752777777777
+      },
+      "8": {
+        "Monday": 54.03412194444444,
+        "Tuesday": 57.70106361111111,
+        "Wednesday": 56.776985833333335,
+        "Thursday": 44.7397375,
+        "Friday": 55.96646555555556,
+        "Saturday": 57.14096194444444,
+        "Sunday": 60.75706666666667
+      },
+      "9": {
+        "Monday": 40.154647777777775,
+        "Tuesday": 46.56880777777778,
+        "Wednesday": 52.48112888888889,
+        "Thursday": 46.86521166666667,
+        "Friday": 48.12598194444445,
+        "Saturday": 48.62728555555555,
+        "Sunday": 23.28868138888889
+      },
+      "10": {
+        "Monday": 44.117896944444446,
+        "Tuesday": 42.614084444444444,
+        "Wednesday": 56.964553611111114,
+        "Thursday": 50.111533055555554,
+        "Friday": 44.94157111111111,
+        "Saturday": 54.64281277777778,
+        "Sunday": 11.590325833333333
+      },
+      "11": {
+        "Monday": 55.35164972222222,
+        "Tuesday": 46.89613444444444,
+        "Wednesday": 61.510688333333334,
+        "Thursday": 48.433035833333335,
+        "Friday": 55.77102694444444,
+        "Saturday": 55.40501722222222,
+        "Sunday": 25.9932625
+      },
+      "12": {
+        "Monday": 50.3724075,
+        "Tuesday": 45.82564222222222,
+        "Wednesday": 55.1377475,
+        "Thursday": 47.911699166666665,
+        "Friday": 52.75613861111111,
+        "Saturday": 51.16471722222222,
+        "Sunday": 48.48378638888889
+      },
+      "13": {
+        "Monday": 45.560319444444445,
+        "Tuesday": 59.18517833333333,
+        "Wednesday": 52.75929,
+        "Thursday": 49.42758972222222,
+        "Friday": 53.44463861111111,
+        "Saturday": 57.52520444444445,
+        "Sunday": 70.10070694444444
+      },
+      "14": {
+        "Monday": 55.307381944444444,
+        "Tuesday": 63.46115,
+        "Wednesday": 66.365545,
+        "Thursday": 56.790931666666665,
+        "Friday": 61.002015,
+        "Saturday": 53.654202222222224,
+        "Sunday": 63.33242555555555
+      },
+      "15": {
+        "Monday": 69.25714694444444,
+        "Tuesday": 71.43246472222222,
+        "Wednesday": 75.30261694444444,
+        "Thursday": 73.28825888888889,
+        "Friday": 71.81223916666667,
+        "Saturday": 46.67760138888889,
+        "Sunday": 68.25240166666667
+      },
+      "16": {
+        "Monday": 72.70088472222223,
+        "Tuesday": 68.52863583333334,
+        "Wednesday": 68.00942388888889,
+        "Thursday": 61.900624722222226,
+        "Friday": 63.74887833333333,
+        "Saturday": 48.52887527777778,
+        "Sunday": 58.41122166666667
+      },
+      "17": {
+        "Monday": 66.21957111111111,
+        "Tuesday": 61.929719444444444,
+        "Wednesday": 64.19432944444445,
+        "Thursday": 60.94293638888889,
+        "Friday": 59.23451083333333,
+        "Saturday": 44.38325138888889,
+        "Sunday": 48.061191666666666
+      },
+      "18": {
+        "Monday": 62.510685277777775,
+        "Tuesday": 60.54962888888889,
+        "Wednesday": 68.37362194444445,
+        "Thursday": 60.115340555555555,
+        "Friday": 57.59368666666667,
+        "Saturday": 50.52592888888889,
+        "Sunday": 63.36973833333333
+      },
+      "19": {
+        "Monday": 69.51401055555556,
+        "Tuesday": 72.5225975,
+        "Wednesday": 61.97410055555556,
+        "Thursday": 66.53461222222222,
+        "Friday": 66.6598361111111,
+        "Saturday": 51.336864166666665,
+        "Sunday": 72.17115055555556
+      },
+      "20": {
+        "Monday": 50.72748,
+        "Tuesday": 57.76874111111111,
+        "Wednesday": 40.527013333333336,
+        "Thursday": 50.27831555555556,
+        "Friday": 44.49959277777778,
+        "Saturday": 41.14552472222222,
+        "Sunday": 47.91043888888889
+      },
+      "21": {
+        "Monday": 60.76193583333333,
+        "Tuesday": 56.41478361111111,
+        "Wednesday": 47.69712305555556,
+        "Thursday": 52.495218888888886,
+        "Friday": 50.34245972222222,
+        "Saturday": 44.11030861111111,
+        "Sunday": 62.235211944444444
+      },
+      "22": {
+        "Monday": 75.20399833333333,
+        "Tuesday": 80.91852555555556,
+        "Wednesday": 66.94315027777778,
+        "Thursday": 62.245378611111114,
+        "Friday": 61.322021944444444,
+        "Saturday": 55.894313333333336,
+        "Sunday": 73.23869
+      },
+      "23": {
+        "Monday": 55.02531666666667,
+        "Tuesday": 58.80591611111111,
+        "Wednesday": 69.51619194444444,
+        "Thursday": 58.1516225,
+        "Friday": 52.63135527777778,
+        "Saturday": 48.10728611111111,
+        "Sunday": 66.44684055555555
+      }
+    }
+  },
+  "skip_behavior": {
+    "overall_skip_flag_rate": 0.226,
+    "skip_flag_rate_by_year": {
+      "2019": 0.0,
+      "2020": 0.0,
+      "2021": 0.0,
+      "2022": 0.073,
+      "2023": 0.442,
+      "2024": 0.419,
+      "2025": 0.544,
+      "2026": 0.447
+    },
+    "cut_short_under_30s_rate": 0.407,
+    "total_raw_plays": 236487
+  },
+  "discovery_vs_repeat": {
+    "new_distinct_artists_by_year": {
+      "2019": 542,
+      "2020": 495,
+      "2021": 145,
+      "2022": 354,
+      "2023": 329,
+      "2024": 299,
+      "2025": 216,
+      "2026": 197
+    },
+    "new_distinct_tracks_by_year": {
+      "2019": 1478,
+      "2020": 1396,
+      "2021": 672,
+      "2022": 1637,
+      "2023": 1142,
+      "2024": 1026,
+      "2025": 1279,
+      "2026": 1229
+    },
+    "plays_that_are_new_artist_share_by_year": {
+      "2019": 1.0,
+      "2020": 0.157,
+      "2021": 0.072,
+      "2022": 0.033,
+      "2023": 0.093,
+      "2024": 0.048,
+      "2025": 0.069,
+      "2026": 0.052
+    },
+    "plays_that_are_new_track_share_by_year": {
+      "2019": 1.0,
+      "2020": 0.341,
+      "2021": 0.247,
+      "2022": 0.237,
+      "2023": 0.181,
+      "2024": 0.213,
+      "2025": 0.273,
+      "2026": 0.246
+    }
+  },
+  "platform_patterns": {
+    "hours_by_platform": {
+      "mobile (Android)": 4116.1,
+      "mobile (iOS)": 1576.9,
+      "desktop (Windows)": 1541.4,
+      "desktop (macOS)": 101.1,
+      "cast / speaker / TV": 59.1,
+      "other": 4.2
+    },
+    "share_by_platform": {
+      "mobile (Android)": 0.556,
+      "mobile (iOS)": 0.213,
+      "desktop (Windows)": 0.208,
+      "desktop (macOS)": 0.014,
+      "cast / speaker / TV": 0.008,
+      "other": 0.001
+    }
+  }
+}

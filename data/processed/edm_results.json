@@ -1,0 +1,407 @@
+{
+  "genre_coverage_share_of_hours": 0.922,
+  "total_edm_hours": 2705.4,
+  "total_edm_hours_share_lifetime": 0.3657,
+  "edm_share_by_year": {
+    "2019": 0.5236,
+    "2020": 0.5623,
+    "2021": 0.4617,
+    "2022": 0.3831,
+    "2023": 0.3239,
+    "2024": 0.27,
+    "2025": 0.2589,
+    "2026": 0.2765
+  },
+  "edm_share_by_month": {
+    "2019-02": 0.4231,
+    "2019-03": 0.4986,
+    "2019-04": 0.7991,
+    "2019-05": 0.4146,
+    "2019-06": 0.6092,
+    "2019-07": 0.4248,
+    "2019-08": 0.5312,
+    "2019-09": 0.4783,
+    "2019-10": 0.4585,
+    "2019-11": 0.424,
+    "2019-12": 0.617,
+    "2020-01": 0.7267,
+    "2020-02": 0.6295,
+    "2020-03": 0.5948,
+    "2020-04": 0.6878,
+    "2020-05": 0.3729,
+    "2020-06": 0.5336,
+    "2020-07": 0.4912,
+    "2020-08": 0.5355,
+    "2020-09": 0.5333,
+    "2020-10": 0.5437,
+    "2020-11": 0.5457,
+    "2020-12": 0.6086,
+    "2021-01": 0.7541,
+    "2021-02": 0.7692,
+    "2021-03": 0.539,
+    "2021-04": 0.6146,
+    "2021-05": 0.5114,
+    "2021-06": 0.4965,
+    "2021-07": 0.4484,
+    "2021-08": 0.4558,
+    "2021-09": 0.3395,
+    "2021-10": 0.409,
+    "2021-11": 0.434,
+    "2021-12": 0.3585,
+    "2022-01": 0.3747,
+    "2022-02": 0.4087,
+    "2022-03": 0.3816,
+    "2022-04": 0.38,
+    "2022-05": 0.4181,
+    "2022-06": 0.3693,
+    "2022-07": 0.4079,
+    "2022-08": 0.3366,
+    "2022-09": 0.3607,
+    "2022-10": 0.3611,
+    "2022-11": 0.4083,
+    "2022-12": 0.394,
+    "2023-01": 0.3103,
+    "2023-02": 0.3866,
+    "2023-03": 0.3779,
+    "2023-04": 0.3027,
+    "2023-05": 0.3207,
+    "2023-06": 0.3611,
+    "2023-07": 0.3293,
+    "2023-08": 0.3598,
+    "2023-09": 0.3061,
+    "2023-10": 0.2661,
+    "2023-11": 0.2977,
+    "2023-12": 0.2583,
+    "2024-01": 0.2529,
+    "2024-02": 0.3338,
+    "2024-03": 0.2309,
+    "2024-04": 0.262,
+    "2024-05": 0.2321,
+    "2024-06": 0.2394,
+    "2024-07": 0.2362,
+    "2024-08": 0.2117,
+    "2024-09": 0.2976,
+    "2024-10": 0.2274,
+    "2024-11": 0.542,
+    "2024-12": 0.2708,
+    "2025-01": 0.2457,
+    "2025-02": 0.3199,
+    "2025-03": 0.2586,
+    "2025-04": 0.2962,
+    "2025-05": 0.2997,
+    "2025-06": 0.2152,
+    "2025-07": 0.244,
+    "2025-08": 0.2206,
+    "2025-09": 0.2104,
+    "2025-10": 0.2458,
+    "2025-11": 0.2079,
+    "2025-12": 0.3528,
+    "2026-01": 0.2531,
+    "2026-02": 0.1828,
+    "2026-03": 0.3812,
+    "2026-04": 0.2624,
+    "2026-05": 0.3011,
+    "2026-06": 0.2392,
+    "2026-07": 0.2683,
+    "2026-08": 0.3014,
+    "2026-09": 0.3032
+  },
+  "top_edm_artists": [
+    {
+      "artist_name": "Avicii",
+      "hours": 582.3,
+      "plays": 9858
+    },
+    {
+      "artist_name": "The Chainsmokers",
+      "hours": 226.0,
+      "plays": 4247
+    },
+    {
+      "artist_name": "Kygo",
+      "hours": 184.9,
+      "plays": 3415
+    },
+    {
+      "artist_name": "Calvin Harris",
+      "hours": 116.1,
+      "plays": 2212
+    },
+    {
+      "artist_name": "Flo Rida",
+      "hours": 78.8,
+      "plays": 1481
+    },
+    {
+      "artist_name": "Axwell /\\ Ingrosso",
+      "hours": 78.3,
+      "plays": 1430
+    },
+    {
+      "artist_name": "Martin Garrix",
+      "hours": 70.0,
+      "plays": 1355
+    },
+    {
+      "artist_name": "Justin Bieber",
+      "hours": 66.3,
+      "plays": 1312
+    },
+    {
+      "artist_name": "David Guetta",
+      "hours": 52.2,
+      "plays": 1069
+    },
+    {
+      "artist_name": "Pitbull",
+      "hours": 51.1,
+      "plays": 989
+    },
+    {
+      "artist_name": "Jason Derulo",
+      "hours": 49.5,
+      "plays": 1011
+    },
+    {
+      "artist_name": "Zedd",
+      "hours": 48.2,
+      "plays": 941
+    },
+    {
+      "artist_name": "Swedish House Mafia",
+      "hours": 47.3,
+      "plays": 803
+    },
+    {
+      "artist_name": "M83",
+      "hours": 45.4,
+      "plays": 734
+    },
+    {
+      "artist_name": "Major Lazer",
+      "hours": 41.9,
+      "plays": 894
+    }
+  ],
+  "top_edm_tracks": [
+    {
+      "track_label": "Levels - Original Version \u2014 Avicii",
+      "hours": 175.7,
+      "plays": 2099
+    },
+    {
+      "track_label": "Honest \u2014 The Chainsmokers",
+      "hours": 46.7,
+      "plays": 847
+    },
+    {
+      "track_label": "Levels - Radio Edit \u2014 Avicii",
+      "hours": 44.5,
+      "plays": 875
+    },
+    {
+      "track_label": "Wake Me Up \u2014 Avicii",
+      "hours": 39.8,
+      "plays": 665
+    },
+    {
+      "track_label": "Midnight City \u2014 M83",
+      "hours": 38.6,
+      "plays": 629
+    },
+    {
+      "track_label": "Roses \u2014 The Chainsmokers",
+      "hours": 36.4,
+      "plays": 616
+    },
+    {
+      "track_label": "The Nights \u2014 Avicii",
+      "hours": 33.1,
+      "plays": 727
+    },
+    {
+      "track_label": "Happy Now \u2014 Kygo",
+      "hours": 29.0,
+      "plays": 522
+    },
+    {
+      "track_label": "It Ain't Me (with Selena Gomez) \u2014 Kygo",
+      "hours": 24.7,
+      "plays": 435
+    },
+    {
+      "track_label": "Hey Brother \u2014 Avicii",
+      "hours": 24.0,
+      "plays": 383
+    },
+    {
+      "track_label": "More Than You Know \u2014 Axwell /\\ Ingrosso",
+      "hours": 23.8,
+      "plays": 465
+    },
+    {
+      "track_label": "Without You (feat. Sandro Cavazza) \u2014 Avicii",
+      "hours": 23.1,
+      "plays": 507
+    },
+    {
+      "track_label": "Waiting For Love \u2014 Avicii",
+      "hours": 22.9,
+      "plays": 406
+    },
+    {
+      "track_label": "Dynamite \u2014 Taio Cruz",
+      "hours": 22.6,
+      "plays": 459
+    },
+    {
+      "track_label": "Stole the Show \u2014 Kygo",
+      "hours": 21.7,
+      "plays": 383
+    }
+  ],
+  "edm_subgenre_hours": {
+    "Other Electronic / Dance": 2621.3,
+    "House": 2275.3,
+    "Big Room / Festival EDM": 2036.1,
+    "Dubstep / Bass": 471.8,
+    "Techno": 218.7,
+    "Trance": 215.5,
+    "Drum & Bass / Jungle": 138.6,
+    "Moombahton / Global Bass": 82.9,
+    "Hardstyle / Hardcore": 0.0
+  },
+  "edm_hour_distribution_pct": {
+    "0": 3.62,
+    "1": 2.75,
+    "2": 2.04,
+    "3": 1.17,
+    "4": 0.85,
+    "5": 1.38,
+    "6": 1.52,
+    "7": 3.02,
+    "8": 4.38,
+    "9": 3.82,
+    "10": 4.2,
+    "11": 4.83,
+    "12": 4.53,
+    "13": 5.13,
+    "14": 5.21,
+    "15": 6.48,
+    "16": 6.25,
+    "17": 5.42,
+    "18": 5.92,
+    "19": 6.49,
+    "20": 4.72,
+    "21": 4.75,
+    "22": 6.31,
+    "23": 5.21
+  },
+  "overall_hour_distribution_pct": {
+    "0": 3.56,
+    "1": 2.52,
+    "2": 1.7,
+    "3": 0.95,
+    "4": 0.66,
+    "5": 1.05,
+    "6": 1.24,
+    "7": 3.1,
+    "8": 5.23,
+    "9": 4.14,
+    "10": 4.12,
+    "11": 4.72,
+    "12": 4.75,
+    "13": 5.24,
+    "14": 5.68,
+    "15": 6.43,
+    "16": 5.97,
+    "17": 5.47,
+    "18": 5.72,
+    "19": 6.23,
+    "20": 4.5,
+    "21": 5.06,
+    "22": 6.43,
+    "23": 5.52
+  },
+  "edm_dow_distribution_pct": {
+    "Friday": 14.7,
+    "Monday": 14.31,
+    "Saturday": 13.38,
+    "Sunday": 13.2,
+    "Thursday": 14.04,
+    "Tuesday": 14.98,
+    "Wednesday": 15.38
+  },
+  "overall_dow_distribution_pct": {
+    "Friday": 14.27,
+    "Monday": 14.46,
+    "Saturday": 13.17,
+    "Sunday": 13.5,
+    "Thursday": 14.26,
+    "Tuesday": 15.02,
+    "Wednesday": 15.32
+  },
+  "concentration": {
+    "edm_top5_artist_share_of_edm_hours": 0.439,
+    "overall_top5_artist_share_of_all_hours": 0.208,
+    "edm_unique_artists": 290,
+    "overall_unique_artists": 2577
+  },
+  "skip_rate_by_genre_bucket": [
+    {
+      "genre_bucket": "Country / Folk",
+      "skip_rate": 0.462,
+      "raw_play_count": 1133
+    },
+    {
+      "genre_bucket": "Other",
+      "skip_rate": 0.409,
+      "raw_play_count": 7044
+    },
+    {
+      "genre_bucket": "Unknown / No Genre Data",
+      "skip_rate": 0.337,
+      "raw_play_count": 21202
+    },
+    {
+      "genre_bucket": "Classical / Instrumental",
+      "skip_rate": 0.33,
+      "raw_play_count": 863
+    },
+    {
+      "genre_bucket": "Rock / Alternative",
+      "skip_rate": 0.272,
+      "raw_play_count": 25243
+    },
+    {
+      "genre_bucket": "R&B / Soul",
+      "skip_rate": 0.251,
+      "raw_play_count": 15228
+    },
+    {
+      "genre_bucket": "Indie / Alternative Pop",
+      "skip_rate": 0.235,
+      "raw_play_count": 7433
+    },
+    {
+      "genre_bucket": "World / Regional",
+      "skip_rate": 0.232,
+      "raw_play_count": 496
+    },
+    {
+      "genre_bucket": "Pop",
+      "skip_rate": 0.223,
+      "raw_play_count": 29201
+    },
+    {
+      "genre_bucket": "Hip-Hop / Rap",
+      "skip_rate": 0.216,
+      "raw_play_count": 45024
+    },
+    {
+      "genre_bucket": "EDM / Dance",
+      "skip_rate": 0.167,
+      "raw_play_count": 83620
+    }
+  ]
+}

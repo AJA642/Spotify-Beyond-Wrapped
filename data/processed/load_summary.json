@@ -1,0 +1,11 @@
+{
+  "unfiltered_row_count": 236487,
+  "filtered_row_count": 140161,
+  "unfiltered_hours": 7504.0,
+  "filtered_hours": 7398.8,
+  "short_play_threshold_ms": 30000,
+  "date_range_start": "2019-02-28 06:21:00+00:00",
+  "date_range_end": "2026-09-08 13:42:12+00:00",
+  "unique_artists": 2577,
+  "unique_tracks": 9859
+}

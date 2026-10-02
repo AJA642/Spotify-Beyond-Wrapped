@@ -1,0 +1,9 @@
+{
+  "sample_size": 76,
+  "sample_edm_count": 12,
+  "sample_edm_share": 0.1579,
+  "covered_set_size": 758,
+  "covered_edm_count": 249,
+  "covered_edm_share": 0.3285,
+  "random_seed": 42
+}
